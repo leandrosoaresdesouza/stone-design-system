@@ -7,7 +7,7 @@ import {
   fonts,
   radii,
   space,
-} from '@stone-ui/tokens';
+} from '@stone-ui-fake/tokens';
 
 const VARIANTS = {
   primary: css`

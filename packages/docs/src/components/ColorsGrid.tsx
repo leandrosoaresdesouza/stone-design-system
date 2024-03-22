@@ -1,4 +1,4 @@
-import { colors } from '@stone-ui/tokens';
+import { colors } from '@stone-ui-fake/tokens';
 import { getContrast } from 'polished';
 
 export function ColorsGrid() {

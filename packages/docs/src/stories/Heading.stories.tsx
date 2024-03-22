@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Heading, HeadingProps } from '@stone-ui/react';
+import { Heading, HeadingProps } from '@stone-ui-fake/react';
 
 export default {
   title: 'Typography/Heading',

@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Box, BoxProps, Text } from '@stone-ui/react';
+import { Box, BoxProps, Text } from '@stone-ui-fake/react';
 
 export default {
   title: 'Surfaces/Box',

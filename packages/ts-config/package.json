@@ -1,6 +1,6 @@
 {
-  "name": "@stone-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@stone-ui-fake/ts-config",
+  "version": "1.1.0",
   "license": "ISC",
   "private": true
 }

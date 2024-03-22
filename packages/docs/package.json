@@ -1,5 +1,5 @@
 {
-  "name": "@stone-ui/docs",
+  "name": "@stone-ui-fake/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@stone-ui/ts-config": "*",
-    "@stone-ui/react": "*",
-    "@stone-ui/tokens": "*",
-    "@stone-ui/eslint-config": "*",
+    "@stone-ui-fake/ts-config": "*",
+    "@stone-ui-fake/react": "*",
+    "@stone-ui-fake/tokens": "*",
+    "@stone-ui-fake/eslint-config": "*",
     "polished": "^4.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

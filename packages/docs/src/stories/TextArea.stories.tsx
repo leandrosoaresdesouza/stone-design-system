@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { TextArea, TextAreaProps } from '@stone-ui/react';
+import { TextArea, TextAreaProps } from '@stone-ui-fake/react';
 
 export default {
   title: 'Form/TextArea',

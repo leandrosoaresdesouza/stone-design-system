@@ -1,5 +1,5 @@
 import 'styled-components';
-import defaultTheme from '@stone-ui/tokens';
+import defaultTheme from '@stone-ui-fake/tokens';
 
 type ThemeType = typeof defaultTheme;
 

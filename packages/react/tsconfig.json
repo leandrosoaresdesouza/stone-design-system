@@ -1,4 +1,4 @@
 {
-  "extends": "@stone-ui/ts-config/react.json",
+  "extends": "@stone-ui-fake/ts-config/react.json",
   "include": ["src"]
 }

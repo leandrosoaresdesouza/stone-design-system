@@ -5,7 +5,7 @@ import {
   fonts,
   radii,
   space,
-} from '@stone-ui/tokens';
+} from '@stone-ui-fake/tokens';
 import styled from 'styled-components';
 
 export const Input = styled.input`

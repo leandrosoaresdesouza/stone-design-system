@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { colors, radii, space } from '@stone-ui/tokens';
+import { colors, radii, space } from '@stone-ui-fake/tokens';
 
 export const BoxContainer = styled.div`
   padding: ${space[6]};

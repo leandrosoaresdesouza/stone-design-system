@@ -1,6 +1,6 @@
 {
-  "name": "@stone-ui/react",
-  "version": "1.0.0",
+  "name": "@stone-ui-fake/react",
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@stone-ui/eslint-config": "*",
-    "@stone-ui/tokens": "*",
-    "@stone-ui/ts-config": "*",
+    "@stone-ui-fake/eslint-config": "*",
+    "@stone-ui-fake/tokens": "*",
+    "@stone-ui-fake/ts-config": "*",
     "@types/react": "^18.2.63",
     "@types/react-dom": "^18.2.20",
     "@types/styled-components": "^5.1.34",

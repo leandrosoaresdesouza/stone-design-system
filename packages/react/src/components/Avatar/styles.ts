@@ -1,5 +1,5 @@
 import * as Avatar from '@radix-ui/react-avatar';
-import { colors, radii, space } from '@stone-ui/tokens';
+import { colors, radii, space } from '@stone-ui-fake/tokens';
 import styled from 'styled-components';
 
 export const AvatarContainer = styled(Avatar.Root)`

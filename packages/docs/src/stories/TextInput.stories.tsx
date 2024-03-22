@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { TextInput, TextInputProps } from '@stone-ui/react';
+import { TextInput, TextInputProps } from '@stone-ui-fake/react';
 
 export default {
   title: 'Form/TextInput',

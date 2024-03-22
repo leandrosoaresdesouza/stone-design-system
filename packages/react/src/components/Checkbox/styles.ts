@@ -1,4 +1,4 @@
-import { colors, radii, space } from '@stone-ui/tokens';
+import { colors, radii, space } from '@stone-ui-fake/tokens';
 import styled, { keyframes } from 'styled-components';
 import * as Checkbox from '@radix-ui/react-checkbox';
 

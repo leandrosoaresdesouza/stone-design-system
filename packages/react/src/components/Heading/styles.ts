@@ -1,4 +1,4 @@
-import { colors, fontSizes, fonts, lineHeights } from '@stone-ui/tokens';
+import { colors, fontSizes, fonts, lineHeights } from '@stone-ui-fake/tokens';
 import styled, { css } from 'styled-components';
 import { HeadingProps } from '.';
 

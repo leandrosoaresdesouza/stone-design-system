@@ -1,7 +1,7 @@
 import { ComponentProps, ElementType } from 'react';
 import { ButtonContainer } from './styles';
 import { TailSpin } from 'react-loader-spinner';
-import { colors } from '@stone-ui/tokens';
+import { colors } from '@stone-ui-fake/tokens';
 
 export type VariantProps = 'primary' | 'secondary' | 'tertiary';
 

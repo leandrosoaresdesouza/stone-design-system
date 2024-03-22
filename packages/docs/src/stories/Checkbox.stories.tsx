@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Checkbox, CheckboxProps } from '@stone-ui/react';
+import { Checkbox, CheckboxProps } from '@stone-ui-fake/react';
 
 export default {
   title: 'Form/Checkbox',

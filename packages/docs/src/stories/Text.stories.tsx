@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import { Text, TextProps } from '@stone-ui/react';
+import { Text, TextProps } from '@stone-ui-fake/react';
 
 export default {
   title: 'Typography/Text',

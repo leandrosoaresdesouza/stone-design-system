@@ -1,6 +1,6 @@
 {
-  "name": "@stone-ui/tokens",
-  "version": "1.0.0",
+  "name": "@stone-ui-fake/tokens",
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@stone-ui/eslint-config": "*",
-    "@stone-ui/ts-config": "*",
+    "@stone-ui-fake/eslint-config": "*",
+    "@stone-ui-fake/ts-config": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
   }
