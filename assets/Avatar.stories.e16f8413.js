@@ -1,0 +1,2 @@
+import{A as t}from"./index.a87963b3.js";import"./index.d55cd815.js";import"./iframe.b9b19e6b.js";import"./jsx-runtime.66d502a2.js";import"./extends.bd401154.js";import"./index.5fc4010d.js";const p={title:"Data display/Avatar",component:t,args:{src:"http://github.com/leandrosoaresdesouza.png",alt:"Leandro Souza"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallBack"];export{c as Primary,m as WithFallBack,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.e16f8413.js.map

@@ -1,0 +1,2 @@
+import{b as r}from"./index.a87963b3.js";import"./index.d55cd815.js";import"./iframe.b9b19e6b.js";import"./jsx-runtime.66d502a2.js";import"./extends.bd401154.js";import"./index.5fc4010d.js";const m={title:"Form/TextArea",component:r,args:{}},i={args:{placeholder:"Tell me about yourself"}},p={args:{disabled:!0,placeholder:"Tell me about yourself"}},d=["Primary","Disabled"];export{p as Disabled,i as Primary,d as __namedExportsOrder,m as default};
+//# sourceMappingURL=TextArea.stories.ff9bb3d9.js.map
